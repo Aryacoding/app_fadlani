@@ -320,7 +320,7 @@ $tot_teknisi   = mysqli_fetch_assoc(mysqli_query($koneksi, "SELECT COUNT(*) as t
                     <li class="nav-item"><a class="nav-link" href="tracking.php"><i class="fas fa-search me-1"></i>
                             Lacak Tiket</a></li>
                     <li class="nav-item ms-lg-3 mt-3 mt-lg-0">
-                        <a class="btn-portal" href="app_fadlani/admin/login.php"><i class="iconoir-user-circle me-1"></i> Portal
+                        <a class="btn-portal" href="admin/login.php"><i class="iconoir-user-circle me-1"></i> Portal
                             Pegawai</a>
                     </li>
                 </ul>
